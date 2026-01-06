@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.env
+.venv
+venv/
+.env*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FAISS / artifacts
+*.index
+*.npy
+*.pkl
+
+# IDEs
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
