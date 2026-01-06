@@ -75,15 +75,7 @@ git clone <your-repo-url>
 cd <your-repo-folder>
 ```
 
-2. (Optional) Create a virtual environment and install dependencies:
-
-```bash
-python -m venv venv
-source venv/bin/activate  # or `venv\Scripts\activate` on Windows
-pip install -r requirements.txt
-```
-
-3. Launch the notebook:
+2. Launch the notebook:
 
 ```bash
 jupyter notebook "Sentiment Aware Movie Review Finder.ipynb"
@@ -102,19 +94,19 @@ Open the notebook in Jupyter Lab/Notebook or execute it cell-by-cell. Key sectio
 
 Detected notebook sections (top-level headings):
 
-- # Cell 1: Environment Setup & Installations
-- # Cell 2: Load and Explore Dataset
-- # Cell 3: Data Preprocessing
-- # Cell 4: Generate Embeddings
-- # Cell 5: Build FAISS Indexes
-- # Cell 6: Sentiment Classifier for Query
-- # Cell 7A: Retrieval Pipeline WITHOUT Sentiment (Pure Semantic Search)
-- # Cell 7B: Retrieval Pipeline WITH Sentiment (Sentiment-Aware Search)
-- # Cell 8: Evaluation Metrics Implementation
-- # Cell 9: Ablation Study - Detailed Analysis
-- # Cell 10A: Query Testing Without Sentiment
-- # Cell 10B: Query Testing With Sentiment
-- # Cell 11: Streamlit Dashboard
+- Cell 1: Environment Setup & Installations
+- Cell 2: Load and Explore Dataset
+- Cell 3: Data Preprocessing
+- Cell 4: Generate Embeddings
+- Cell 5: Build FAISS Indexes
+- Cell 6: Sentiment Classifier for Query
+- Cell 7A: Retrieval Pipeline WITHOUT Sentiment (Pure Semantic Search)
+- Cell 7B: Retrieval Pipeline WITH Sentiment (Sentiment-Aware Search)
+- Cell 8: Evaluation Metrics Implementation
+- Cell 9: Ablation Study - Detailed Analysis
+- Cell 10A: Query Testing Without Sentiment
+- Cell 10B: Query Testing With Sentiment
+- Cell 11: Streamlit Dashboard
 
 ## Datasets & resources
 
