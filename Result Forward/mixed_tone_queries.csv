@@ -1,0 +1,13 @@
+Query,True,DistilBERT,VADER,TextBlob,D_Correct,V_Correct,T_Correct
+This movie was bad but I enjoyed it,NEG,POS,POS,NEG,✗,✗,✓
+This movie was good but I didn't like it,POS,NEG,NEG,POS,✗,✗,✓
+Terrible acting but amazing cinematography,NEG,POS,POS,NEG,✗,✗,✓
+Great story ruined by poor execution,NEG,NEG,NEG,POS,✓,✓,✗
+Boring plot saved by brilliant performances,POS,POS,POS,NEG,✓,✓,✗
+I loved to hate this movie,NEG,NEG,POS,NEG,✓,✗,✓
+Disappointing despite some good moments,NEG,NEG,NEG,POS,✓,✓,✗
+Surprisingly decent for a low budget film,POS,POS,POS,POS,✓,✓,✓
+Could have been great but fell flat,NEG,NEG,POS,POS,✓,✗,✗
+Not the best but still enjoyable,POS,POS,POS,POS,✓,✓,✓
+"Hated the beginning, loved the ending",POS,POS,NEG,NEG,✓,✗,✗
+"Started strong, ended terribly",NEG,NEG,NEG,NEG,✓,✓,✓

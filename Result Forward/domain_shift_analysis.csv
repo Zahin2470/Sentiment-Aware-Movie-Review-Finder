@@ -1,0 +1,9 @@
+Approach,Index,IMDB mAP,Amazon mAP,Δ mAP,Shift (%),Acceptable
+without sentiment,FLATL2,0.2313,0.19,-0.0412,-17.8,✓
+without sentiment,IVF,0.2282,0.1824,-0.0458,-20.0,✓
+without sentiment,HNSW,0.231,0.1938,-0.0373,-16.1,✓
+without sentiment,IVFPQ,0.0913,0.0542,-0.0371,-40.6,⚠
+with sentiment,FLATL2,0.3498,0.3776,0.0279,8.0,✓
+with sentiment,IVF,0.3453,0.3486,0.0033,1.0,✓
+with sentiment,HNSW,0.3393,0.3381,-0.0013,-0.4,✓
+with sentiment,IVFPQ,0.1149,0.0838,-0.0311,-27.1,⚠
