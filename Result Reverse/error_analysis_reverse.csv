@@ -1,0 +1,35 @@
+query,failure_type,precision_at_10,confidence,is_mixed
+"Tony Hawk's Pro Skater 2x, isn't much different at all from the previous games (",sentiment_misclassification,0.0,0.9973992109298706,False
+Not a box office success; no-one really knows why. It may have failed simply bec,mixed_tone_misclassification,0.0,0.9336684942245483,True
+"Eleven years ago, Stanley Ipkiss released his true inner self and became the her",sentiment_misclassification,0.0,0.999092698097229,False
+"Why did I buy this movie on DVD?, Well the short answer would be: I really don't",mixed_tone_misclassification,0.0,0.9817713499069214,True
+Two sailors are on leave--ladies man Joseph Brady (Gene Kelly) and shy innocent ,sentiment_misclassification,0.0,0.9972251653671265,False
+"Some years ago, satellite channel U.K. Gold promoted repeats of 'Men Behaving Ba",mixed_tone_misclassification,0.0,0.9992063641548157,True
+"As I have said before in previous comments, some programmes are there to be 'Lig",sentiment_misclassification,0.0,0.687961995601654,False
+"Intense, funny, witty, and more than anything, social comedy on the ways of adul",mixed_tone_misclassification,0.0,0.9705324769020081,True
+Otto Preminger directs this light as a feather story. Bohemian Jean Seberg and h,sentiment_misclassification,0.0,0.9990597367286682,False
+The reviewer who called this movie a bust has clearly missed the point. It's obv,mixed_tone_misclassification,0.0,0.9993627667427063,True
+Milla stands out in this movie because of her personal sense of style and the wa,sentiment_misclassification,0.0,0.9965983033180237,False
+"As I mentioned in other comments, I became a real big fan of David Bradley ever ",mixed_tone_misclassification,0.0,0.9972836971282959,True
+The first time you see The Second Renaissance it may look boring. Look at it at ,sentiment_misclassification,0.0,0.9271132946014404,False
+It seems a shame that Greta Garbo ended her illustrious career at the age of 36 ,sentiment_misclassification,0.0,0.9546647667884827,False
+I have read and enjoyed many of James Lee Burke's Robicheaux mysteries. When I r,sentiment_misclassification,0.0,0.819849967956543,False
+"The Dekalog 5 may be considered a violent accusation against the death sentence,",sentiment_misclassification,0.0,0.9402949213981628,False
+"I never was an avid viewer of ""Crocodile Hunter"", but did occasionally see an ep",sentiment_misclassification,0.0,0.9867554306983948,False
+Whoever likened this one to RAIDERS OF THE LOST ARK certainly knew whereof he sp,sentiment_misclassification,0.0,0.9904888868331909,False
+"As soon as I knew Keira Knighteley being in this flick, I said ""I have to watch ",sentiment_misclassification,0.0,0.9755125641822815,False
+"The movie is not that bad, Ringo Lam sucks. I hate when Van Damme has love in hi",mixed_tone_misclassification,0.0,0.9962098598480225,True
+"The first half of the film is OK, the second half one of the most tedious experi",sentiment_misclassification,0.0,0.9969280362129211,False
+"If you are going to make a movie from any book, be sure that the characters are ",sentiment_misclassification,0.0,0.9910020232200623,False
+I have seen this movie a number of times and find it very compelling and sad. Th,sentiment_misclassification,0.0,0.9515212774276733,False
+"According to Milan Kundera, a porcelain-cat holding a red rose is denying the cr",sentiment_misclassification,0.0,0.9743515849113464,False
+For those of us that lived thru those weeks of filming in town and around the Va,sentiment_misclassification,0.0,0.9940308928489685,False
+I'm a bit spooked by some of these reviews praising A.K.A. Not only do they soun,mixed_tone_misclassification,0.0,0.9429658055305481,True
+Orson Welles manages to knock me on my ass with every picture of his I see. Lady,mixed_tone_misclassification,0.0,0.9817636609077454,True
+"In the old commercial for blank audio cassettes, the tag line was ""is it real or",sentiment_misclassification,0.0,0.9989585876464844,False
+"At the beginning of this film, which I found myself watching on IFC in the wee h",sentiment_misclassification,0.0,0.9563988447189331,False
+"Slausen's Lost Oasis. . . a place for food, fun. . . and MURDER! After a guy dis",mixed_tone_misclassification,0.0,0.9938033819198608,True
+"It's probably a year since I saw Uzak, but it has left strong memories of the tw",sentiment_misclassification,0.0,0.9764940142631531,False
+"""The Merchant of Venice"" was one of Shakespeare's most popular plays during his ",sentiment_misclassification,0.0,0.9886725544929504,False
+"I rented this some years ago, the video store had only VHS at the time. Straight",sentiment_misclassification,0.0,0.9994753003120422,False
+"At the beginning of the movie, the beautiful photography and the scenes of the f",mixed_tone_misclassification,0.0,0.9898852109909058,True
